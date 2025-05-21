@@ -1,0 +1,5 @@
+1.  COLOUR PALETTE:
+    - #FFD700 (gold)
+    - #F7F7F7 (grey/white)
+    - #854836 (brown)
+    - #000000 (black)
